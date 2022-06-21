@@ -1,2 +1,2 @@
 # NFC-Base
-Basic NFC Check and Reader
+Basic NFC Check and Reader for Android
